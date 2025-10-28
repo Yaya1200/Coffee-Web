@@ -1,0 +1,89 @@
+body, html{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+
+}
+.container{
+  display: flex;
+ padding-left: 20px;
+ background-color: RGB(101, 50, 0);
+ padding-bottom: 15px;
+}
+#codeblock{
+  max-width: 100%;
+  max-height: 8vh;
+  background-color: RGB(101, 50, 0);
+ }
+ #codeblock1{
+  max-width: 100%;
+  max-height: 92vh;
+  background-color: white;
+
+ }
+ .links{
+  color: white;
+  text-decoration: none;
+  padding-top: 8px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.coffee{
+  color: white;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 8px;
+}
+#coffee{
+  height: 20px;
+  width: 20px;
+  padding-top: 10px;
+}
+.about{
+  border-radius: 50%;
+  object-fit: cover;
+  width: 300px;
+  height: 300px;
+  margin-right: 300px;
+}
+#about{
+  padding-left: 60px;
+  padding-top: 30px;
+  display: flex;
+  align-items: top;
+}
+.us{
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: large;
+}
+.us1{
+  padding-top: 40px;
+  display: inline-block;
+  font-family: 'Patrick Hand', sans-serif;
+}
+.us2{
+ padding-top: 10px;
+ display: inline-block;
+ font-family: 'Patrick Hand', sans-serif;
+}
+.us3{
+  width: 20px;
+  height: 20px;
+  padding-left: 200px;
+  padding-top: 30px;
+}
+.us4{
+  width: 20px;
+  height: 20px;
+  padding-left: 5px;
+  padding-top: 30px;
+
+}
+.us5{
+  width: 20px;
+  height: 20px;
+  padding-left: 5px;
+  padding-top: 30px;
+
+}
